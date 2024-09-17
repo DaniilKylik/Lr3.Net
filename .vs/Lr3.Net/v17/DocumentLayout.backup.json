@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\services\\timeanalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:services\\timeanalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|c:\\users\\maksk\\source\\repos\\lr3.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D81E2-097D-4524-998C-2565EDB901D4}|Lr3.Net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T13:06:46.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\TimeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\TimeController.cs",
+              "RelativeToolTip": "Controllers\\TimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:53:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalcController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "Controllers\\CalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:51:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:50:57.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeAnalyzerService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Services\\TimeAnalyzerService.cs",
+              "RelativeDocumentMoniker": "Services\\TimeAnalyzerService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Services\\TimeAnalyzerService.cs",
+              "RelativeToolTip": "Services\\TimeAnalyzerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:50:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Services\\CalcService.cs",
+              "RelativeDocumentMoniker": "Services\\CalcService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Services\\CalcService.cs",
+              "RelativeToolTip": "Services\\CalcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:49:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr3.Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:49:39.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
